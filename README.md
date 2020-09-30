@@ -8,12 +8,12 @@ Assamese2Vec is an open source project for modelling the Assamese Language. The 
 
 ## Results
 
-#### Words most similar to the boy (লৰা)
+#### Words most similar to 'boy' (লৰা)
 <p align="center">
 <img src="https://github.com/hridaydutta123/Assamese2Vec/blob/master/img/most_similar_lora.png" width="600" height="150" />
 </p>
 
-#### Words most similar to the Asomiya (অসমীয়া)
+#### Words most similar to 'Asomiya' (অসমীয়া)
 <p align="center">
 <img src="https://github.com/hridaydutta123/Assamese2Vec/blob/master/img/most_similar_asomiya.png" width="600" height="150" />
 </p>
